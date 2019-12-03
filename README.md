@@ -24,6 +24,6 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+选择文件
+》》》》》》图片 or 视频
+接着欣赏代码在屏幕的表演把

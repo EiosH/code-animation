@@ -1,4 +1,4 @@
-# gif
+# code animation
 
 ## Project setup
 ```
